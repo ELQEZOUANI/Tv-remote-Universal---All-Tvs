@@ -1,0 +1,37 @@
+{
+  "/Users/Apple/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.25.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/URLRequestProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLRequestProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLRequestProxyAPIDelegate.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLRequestProxyAPIDelegate.dia",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLRequestProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLRequestProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.25.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/UserContentControllerProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserContentControllerProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserContentControllerProxyAPIDelegate.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserContentControllerProxyAPIDelegate.dia",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserContentControllerProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserContentControllerProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.25.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/UserScriptProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserScriptProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserScriptProxyAPIDelegate.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserScriptProxyAPIDelegate.dia",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserScriptProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UserScriptProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.25.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/WebKitLibrary.g.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebKitLibrary.g.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebKitLibrary.g.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebKitLibrary.g.dia",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebKitLibrary.g.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebKitLibrary.g.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.25.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/WebpagePreferencesProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebpagePreferencesProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebpagePreferencesProxyAPIDelegate.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebpagePreferencesProxyAPIDelegate.dia",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebpagePreferencesProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/WebpagePreferencesProxyAPIDelegate.swiftdeps"
+  }
+}

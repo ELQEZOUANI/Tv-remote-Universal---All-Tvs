@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/app_settings-primary.dia",
+    "emit-module-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/app_settings-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/app_settings-primary-emit-module.dia",
+    "pch" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/app_settings-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/app_settings-primary.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/app_settings-5.2.0/macos/Classes/AppSettingsEnums.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsEnums~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/app_settings-5.2.0/macos/Classes/AppSettingsPlugin.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/app_settings.build/Objects-normal/arm64/AppSettingsPlugin~partial.swiftmodule"
+  }
+}

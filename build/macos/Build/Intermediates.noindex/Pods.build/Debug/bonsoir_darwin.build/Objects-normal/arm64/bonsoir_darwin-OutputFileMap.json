@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/bonsoir_darwin-primary.dia",
+    "emit-module-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/bonsoir_darwin-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/bonsoir_darwin-primary-emit-module.dia",
+    "pch" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/bonsoir_darwin-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/bonsoir_darwin-primary.swiftdeps"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/BonsoirAction.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirAction~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/BonsoirService.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirService~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/Broadcast/BonsoirServiceBroadcast.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceBroadcast~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/Discovery/BonsoirServiceDiscovery.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/BonsoirServiceDiscovery~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/Generated.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/Generated~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/SuccessObject.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SuccessObject~partial.swiftmodule"
+  },
+  "/Users/Apple/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/darwin/Classes/SwiftBonsoirPlugin.swift" : {
+    "const-values" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.swiftconstvalues",
+    "dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.d",
+    "diagnostics" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.o",
+    "llvm-bc" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.bc",
+    "object" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.o",
+    "swift-dependencies" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin.swiftdeps",
+    "swiftmodule" : "/Users/Apple/Desktop/tvremote/build/macos/Build/Intermediates.noindex/Pods.build/Debug/bonsoir_darwin.build/Objects-normal/arm64/SwiftBonsoirPlugin~partial.swiftmodule"
+  }
+}

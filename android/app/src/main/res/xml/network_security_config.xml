@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Smart-TV protocols use dynamic private IP addresses and commonly expose
+     only HTTP or WS endpoints, so domain-specific exceptions are not viable. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
