@@ -456,7 +456,7 @@ class XiaomiService extends TVService {
       _fStr(2, 'Apple'), // vendor
       _fVar(3, 1), // unknown1
       _fStr(4, '1'), // unknown2
-      _fStr(5, 'com.unirem.fad'), // package_name
+      _fStr(5, 'com.zay.tv'), // package_name
       _fStr(6, '1.0.0'), // app_version
     ]);
     final rc = _cat([_fVar(1, 622), _fBytes(2, di)]);

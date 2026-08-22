@@ -1,4 +1,0 @@
-
-module app_settings.__Swift {
-  exclude header "app_settings-Swift.h"
-}

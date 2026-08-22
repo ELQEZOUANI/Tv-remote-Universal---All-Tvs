@@ -1,5 +1,0 @@
-
-module bonsoir_darwin.Swift {
-  header "bonsoir_darwin-Swift.h"
-  requires objc
-}

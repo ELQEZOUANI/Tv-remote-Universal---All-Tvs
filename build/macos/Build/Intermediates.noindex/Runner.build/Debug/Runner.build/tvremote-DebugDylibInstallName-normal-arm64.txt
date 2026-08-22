@@ -1,1 +1,0 @@
-@rpath/tvremote.debug.dylib

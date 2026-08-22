@@ -1,4 +1,0 @@
-
-module bonsoir_darwin.__Swift {
-  exclude header "bonsoir_darwin-Swift.h"
-}
