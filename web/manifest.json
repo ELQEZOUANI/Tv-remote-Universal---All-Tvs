@@ -1,6 +1,6 @@
 {
-    "name": "Tv remote Universal - All Tvs",
-    "short_name": "Tv remote",
+    "name": "TV Remote",
+    "short_name": "TV Remote",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

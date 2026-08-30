@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Tv remote Universal - All Tvs</string>
+	<string>TV Remote</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Tv remote Universal - All Tvs</string>
+	<string>TV Remote</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -26,13 +26,6 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-2535194044471316~1501876788</string>
-	<key>SKAdNetworkItems</key>
-	<array>
-		<dict>
-			<key>SKAdNetworkIdentifier</key>
-			<string>cstr6suwn9.skadnetwork</string>
-		</dict>
-	</array>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>https</string>
@@ -41,6 +34,11 @@
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
 	<key>NSBonjourServices</key>
 	<array>
 		<string>_samsung._tcp</string>
@@ -54,18 +52,21 @@
 		<string>_adb._tcp</string>
 		<string>_roku-remote._tcp</string>
 	</array>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<!-- Samsung, LG, and Roku expose local HTTP/WS endpoints by IP. -->
-		<key>NSAllowsLocalNetworking</key>
-		<true/>
-	</dict>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>Tv remote Universal - All Tvs needs local network access to discover and control your Samsung, LG, Xiaomi, and Android smart TVs over Wi-Fi.</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Tv remote Universal - All Tvs needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<string>TV Remote needs local network access to discover and control your Samsung, LG, Xiaomi, and Android smart TVs over Wi-Fi.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Tv remote Universal - All Tvs needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<string>TV Remote needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>TV Remote needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Allow tracking to show ads that are more relevant to you and to measure advertising performance.</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

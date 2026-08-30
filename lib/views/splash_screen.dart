@@ -293,7 +293,7 @@ class _SplashScreenState extends State<SplashScreen>
                         ),
                         const SizedBox(height: 4),
                         Text(
-                          'Tv remote Universal - All Tvs',
+                          'TV Remote',
                           style: TextStyle(
                             color: titleColor,
                             fontSize: 24,

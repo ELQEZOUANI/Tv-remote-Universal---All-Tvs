@@ -10,11 +10,11 @@ import 'ads/app_open_ad_manager.dart';
 import 'ads/interstitial_ad_manager.dart';
 import 'ads/rewarded_ad_manager.dart';
 import 'ads/app_lifecycle_reactor.dart';
+import 'core/app_logger.dart';
+import 'services/app_tracking_transparency_service.dart';
 
-void main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
-
-  await MobileAds.instance.initialize();
 
   SystemChrome.setSystemUIOverlayStyle(
     const SystemUiOverlayStyle(
@@ -24,13 +24,8 @@ void main() async {
   );
 
   final appOpenAdManager = AppOpenAdManager();
-  appOpenAdManager.loadAd();
-
   final interstitialAdManager = InterstitialAdManager();
-  interstitialAdManager.loadAd();
-
   final rewardedAdManager = RewardedAdManager();
-  rewardedAdManager.loadAd();
 
   runApp(
     MultiProvider(
@@ -41,12 +36,60 @@ void main() async {
         Provider<InterstitialAdManager>.value(value: interstitialAdManager),
         Provider<RewardedAdManager>.value(value: rewardedAdManager),
       ],
-      child: AppLifecycleReactor(
+      child: _AppStartup(
         appOpenAdManager: appOpenAdManager,
-        child: const UniversalRemoteApp(),
+        interstitialAdManager: interstitialAdManager,
+        rewardedAdManager: rewardedAdManager,
       ),
     ),
   );
+}
+
+/// Starts advertising only after iOS has resolved the ATT request.
+class _AppStartup extends StatefulWidget {
+  const _AppStartup({
+    required this.appOpenAdManager,
+    required this.interstitialAdManager,
+    required this.rewardedAdManager,
+  });
+
+  final AppOpenAdManager appOpenAdManager;
+  final InterstitialAdManager interstitialAdManager;
+  final RewardedAdManager rewardedAdManager;
+
+  @override
+  State<_AppStartup> createState() => _AppStartupState();
+}
+
+class _AppStartupState extends State<_AppStartup> {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) => _initializeAds());
+  }
+
+  Future<void> _initializeAds() async {
+    final trackingStatus =
+        await AppTrackingTransparencyService.requestAuthorization();
+    appLog('ATT authorization status: ${trackingStatus.name}');
+
+    try {
+      await MobileAds.instance.initialize();
+      widget.appOpenAdManager.loadAd();
+      widget.interstitialAdManager.loadAd();
+      widget.rewardedAdManager.loadAd();
+    } catch (error) {
+      appLog('Unable to initialize ads: $error');
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AppLifecycleReactor(
+      appOpenAdManager: widget.appOpenAdManager,
+      child: const UniversalRemoteApp(),
+    );
+  }
 }
 
 class UniversalRemoteApp extends StatelessWidget {
@@ -69,7 +112,7 @@ class UniversalRemoteApp extends StatelessWidget {
 
     return CupertinoApp(
       debugShowCheckedModeBanner: false,
-      title: 'Tv remote Universal - All Tvs',
+      title: 'TV Remote',
       theme: CupertinoThemeData(
         brightness: isDark ? Brightness.dark : Brightness.light,
         primaryColor: AppTheme.primaryRed,
