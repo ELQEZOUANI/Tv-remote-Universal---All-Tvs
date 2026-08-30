@@ -29,7 +29,7 @@ void main() {
       ),
     );
     await tester.pump();
-    expect(find.text('TV Remote'), findsOneWidget);
+    expect(find.text('Tv remote Universal - All Tvs'), findsOneWidget);
 
     // The splash has a repeating glow animation, so pump exact durations
     // instead of pumpAndSettle (which would never settle).

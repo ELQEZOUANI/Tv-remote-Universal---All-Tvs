@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>TV Remote</string>
+	<string>Tv remote Universal - All Tvs</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -53,11 +53,11 @@
 		<string>_roku-remote._tcp</string>
 	</array>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>TV Remote needs local network access to discover and control your Samsung, LG, Xiaomi, and Android smart TVs over Wi-Fi.</string>
+	<string>Tv remote Universal - All Tvs needs local network access to discover and control your Samsung, LG, Xiaomi, and Android smart TVs over Wi-Fi.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>TV Remote needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<string>Tv remote Universal - All Tvs needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>TV Remote needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
+	<string>Tv remote Universal - All Tvs needs location access to identify your Wi-Fi network and verify your TV is on the same network.</string>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Allow tracking to show ads that are more relevant to you and to measure advertising performance.</string>
 	<key>SKAdNetworkItems</key>

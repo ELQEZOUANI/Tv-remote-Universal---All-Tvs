@@ -216,7 +216,7 @@ class _PremiumTopBar extends StatelessWidget {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'TV Remote',
+                  'Tv remote Universal - All Tvs',
                   style: TextStyle(
                     color: _T.title(isDark),
                     fontSize: 16,
@@ -1479,7 +1479,7 @@ class _BrandingHeader extends StatelessWidget {
               ),
               const SizedBox(height: 14),
               Text(
-                'TV Remote',
+                'Tv remote Universal - All Tvs',
                 style: TextStyle(
                   color: _T.title(isDark),
                   fontSize: 18,
@@ -3150,7 +3150,7 @@ class _SearchEmptyState extends StatelessWidget {
     if (status == DiscoveryStatus.permissionDenied) {
       return (
         'Local network access is off',
-        'Enable Local Network access for TV Remote in device Settings.',
+        'Enable Local Network access for Tv remote Universal - All Tvs in device Settings.',
         CupertinoIcons.lock_shield,
       );
     }
